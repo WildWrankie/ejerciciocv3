@@ -4,8 +4,10 @@ body{
     color:navy;
     text-align: center;
 }
+
 div {
     width: 40%;
     border: 5px solid maroon;
     margin: auto;
 }
+
